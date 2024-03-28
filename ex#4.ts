@@ -1,0 +1,1 @@
+console.log('Altaf bhai said, “karachi chal”');
